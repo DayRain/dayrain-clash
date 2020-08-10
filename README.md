@@ -7,4 +7,4 @@ V1.0
 
 查询部落成员信息，由捐兵数、收兵数、攻击获胜次数综合得出活跃度排行。
 
-![v1-1](imges\v1-1.png)
+![v1-1](https://github.com/DayRain/dayrain-clash/blob/master/imges/v1-1.png)
